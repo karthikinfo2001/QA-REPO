@@ -4,4 +4,5 @@
    -- country VARCHAR(50)
 --);
 
-alter table northschool add column address varchar;
+--alter table northschool add column address varchar;
+alter table northschool add column father_name varchar;
