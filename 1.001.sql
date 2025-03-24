@@ -5,4 +5,5 @@
 --);
 
 --alter table northschool add column address varchar;
-alter table northschool add column father_name varchar;
+--alter table northschool add column father_name varchar;
+alter table northschool add column mother_name varchar;
